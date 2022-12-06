@@ -8,6 +8,8 @@ draft: false
 ---
  <img src="https://github.com/Jury616/Jury616.github.io/blob/main/a.png">
 # TruE Elysia
+
+
                                 爱莉希雅：                       无量塔姬子：
                                 不想前进的时候                   迷茫的时候
                                 就暂且停下脚步吧                 就抬头看看星空吧
