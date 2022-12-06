@@ -6,7 +6,7 @@ draft: false
 ---
 **朱锐-2022210991**
 ---
-！[Elysia](https://github.com/Jury616/Jury616.github.io/blob/main/a.png)
+ <img src="https://github.com/Jury616/Jury616.github.io/blob/main/a.png">
 # TruE Elysia
                                 爱莉希雅：                       无量塔姬子：
                                 不想前进的时候                   迷茫的时候
